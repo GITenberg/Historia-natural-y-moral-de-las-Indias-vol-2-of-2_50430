@@ -1,4 +1,8 @@
 _repo: Historia-natural-y-moral-de-las-Indias-vol-2-of-2_50430
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50430-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Acosta, de
@@ -8,6 +12,8 @@ creator:
     gutenberg_agent_id: '45902'
     url: http://www.gutenberg.org/2009/agents/45902
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50430#Historia-natural-y-moral-de-las-Indias-vol-2-of-2
 gutenberg_issued: '2015-11-11'
 gutenberg_type: Text
 identifiers:
